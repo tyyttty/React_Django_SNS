@@ -3,6 +3,7 @@ import { useState } from "react";
 import { Login } from "./Login";
 import { Timeline } from "./Timeline";
 import { Profile } from "./Profile";
+import React from "react";
 
 export const App = () => {
   const [isAuth, setIsAuth] = useState(

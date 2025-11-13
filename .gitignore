@@ -13,9 +13,13 @@ db.sqlite3
 /staticfiles/
 media/
 
+# Vite build output
+dist/
+
 # Node / React
 node_modules/
 build/
+
 
 # VSCode
 .vscode/
